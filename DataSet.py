@@ -11,15 +11,7 @@ Ireland_suicide_data.isnull().sum()
 full_Ireland_suicide_data = Ireland_suicide_data.fillna(method = 'ffill')
 
 full_Ireland_suicide_data.set_index('year')
-
 full_Ireland_suicide_data.sort_values(by = 'year')
-
-From_1985_to_1989 = full_Ireland_suicide_data[0:60]
-From_1990_to_1994 = full_Ireland_suicide_data[60:120]
-From_1995_to_1999 = full_Ireland_suicide_data[120:180]
-From_2000_to_2004 = full_Ireland_suicide_data[180:240]
-From_2005_to_2009 = full_Ireland_suicide_data[240:300]
-From_2010_to_2014 = full_Ireland_suicide_data[300:360]
 
 
 def total_suicides(n):
