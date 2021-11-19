@@ -9,9 +9,15 @@ Ireland_suicide_data = Suicide_data[Suicide_data['country'] == 'Ireland']
 
 Ireland_suicide_data.isnull().sum()
 full_Ireland_suicide_data = Ireland_suicide_data.fillna(method = 'ffill')
+index_full_Ireland_suicide_data=full_Ireland_suicide_data.set_index('year')
+sort_full_Ireland_suicide_data=index_full_Ireland_suicide_data.sort_values(by = 'year')
 
-full_Ireland_suicide_data.set_index('year')
-full_Ireland_suicide_data.sort_values(by = 'year')
+From_1985_to_1989 = sort_full_Ireland_suicide_data[:60]
+From_1990_to_1994 = sort_full_Ireland_suicide_data[60:120]
+From_1995_to_1999 = sort_full_Ireland_suicide_data[120:180]
+From_2000_to_2004 = sort_full_Ireland_suicide_data[180:240]
+From_2005_to_2009 = sort_full_Ireland_suicide_data[240:300]
+From_2010_to_2014 = sort_full_Ireland_suicide_data[300:]
 
 
 def total_suicides(n):
@@ -66,6 +72,7 @@ gender_table = pd.concat([final_gender1,final_gender2,final_gender3,final_gender
 
 merged_tables = df_new_data.merge(gender_table, on= ['suicides_no','sex','Year'], how ='outer')
 merged_table_sort = merged_tables.sort_values(by= 'Year')
+print(merged_table_sort)
 
 sns.set_theme(style = 'darkgrid')
 hue_colours = {'total': 'green', 'male':'blue', 'female':'red'}
@@ -74,6 +81,41 @@ g.set_title('Irish suicide statistics')
 g.set(xlabel='Years', ylabel= 'Number of Suicides')
 plt.xticks(rotation = 90)
 plt.show()
+
+number_gender = np.array([gender1, gender2, gender3, gender4, gender5, gender6])
+
+female_increase = np.array([])
+for i in range(6):
+    female_increase = np.append(female_increase,number_gender[i][0])
+
+male_increase = np.array([])
+for i in range(6):
+    male_increase = np.append(male_increase,number_gender[i][1])
+
+a = 0
+b = 1
+f_diff = np.array([])
+
+while a < 5:
+    f_diff = np.append(f_diff, (female_increase[b] - female_increase[a]))
+    a += 1
+    b += 1
+f_mean = np.mean(f_diff)
+f_std = np.std(f_diff)
+print(f_mean, f_std)
+
+m_diff = np.array([])
+a = 0
+b = 1
+
+while a < 5:
+    m_diff = np.append(m_diff, (male_increase[b] - male_increase[a]))
+    a += 1
+    b += 1
+m_mean = np.mean(m_diff)
+m_std = np.std(m_diff)
+print(m_mean, m_std)
+
 
 
 
