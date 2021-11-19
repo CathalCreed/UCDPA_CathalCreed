@@ -77,7 +77,7 @@ print(merged_table_sort)
 sns.set_theme(style = 'darkgrid')
 hue_colours = {'total': 'green', 'male':'blue', 'female':'red'}
 g = sns.lineplot(x='Year', y='suicides_no', data = merged_table_sort, hue= 'sex', hue_order = ['total','male', 'female'], palette = hue_colours, marker= 'o', markersize= 10)
-g.set_title('Irish suicide statistics')
+g.set_title('Irish suicide statistics', fontsize = 16)
 g.set(xlabel='Years', ylabel= 'Number of Suicides')
 plt.xticks(rotation = 90)
 plt.show()
