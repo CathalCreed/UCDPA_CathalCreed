@@ -20,16 +20,16 @@ print(male, female)
 
 def plot_table(axes, x, y, colour, rot, title, xlabel, ylabel):
     axes.bar(x, y, color=colour)
-    axes.set_xlabel(xlabel)
-    axes.set_ylabel(ylabel)
-    axes.set_title(title, fontsize = 12)
-    axes.set_xticklabels(x, rotation=rot)
+    axes.set_xlabel(xlabel, fontsize =16)
+    axes.set_ylabel(ylabel, fontsize = 16)
+    axes.set_title(title, fontsize = 16)
+    axes.set_xticklabels(x, rotation=rot, fontsize= 16)
 
 
 fig, ax = plt.subplots(1, 2, sharey=True)
 plot_table(ax[0], male['age'], male['suicides_no'], 'blue', 90, 'Male', 'age category', 'Number of suicides')
 plot_table(ax[1], female['age'], female['suicides_no'], 'red', 90, 'Female', 'age category', '')
-fig.suptitle('Irish suicide statistics 1985 to 2014', fontsize = 16)
+fig.suptitle('Irish suicide statistics 1985 to 2014', fontsize = 20)
 
 plt.show()
 
