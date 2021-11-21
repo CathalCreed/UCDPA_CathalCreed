@@ -27,12 +27,12 @@ def plot_table(axes, x, y, colour, rot, title, xlabel, ylabel):
 
 
 fig, ax = plt.subplots(1, 2, sharey=True)
-plt.style.use('ggplot')
 plot_table(ax[0], male['age'], male['suicides_no'], 'blue', 90, 'Male', 'age category', 'Number of suicides')
 plot_table(ax[1], female['age'], female['suicides_no'], 'red', 90, 'Female', 'age category', '')
 fig.suptitle('Irish suicide statistics 1985 to 2014', fontsize = 16)
 
 plt.show()
+
 
 
 
