@@ -1,0 +1,361 @@
+﻿country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year ($) ,gdp_per_capita ($),generation
+Ireland,1985,male,55-74 years,65,251800,25.81,Ireland1985,0.742,"21,295,486,383",6638,G.I. Generation
+Ireland,1985,male,25-34 years,47,251000,18.73,Ireland1985,0.742,"21,295,486,383",6638,Boomers
+Ireland,1985,male,15-24 years,48,314400,15.27,Ireland1985,0.742,"21,295,486,383",6638,Generation X
+Ireland,1985,male,35-54 years,51,367300,13.89,Ireland1985,0.742,"21,295,486,383",6638,Silent
+Ireland,1985,female,55-74 years,21,274200,7.66,Ireland1985,0.742,"21,295,486,383",6638,G.I. Generation
+Ireland,1985,male,75+ years,4,56000,-,Ireland1985,0.742,"21,295,486,383",6638,G.I. Generation
+Ireland,1985,female,35-54 years,24,353200,6.8,Ireland1985,0.742,"21,295,486,383",6638,Silent
+Ireland,1985,female,25-34 years,11,248300,4.43,Ireland1985,0.742,"21,295,486,383",6638,Boomers
+Ireland,1985,female,75+ years,1,85900,1.16,Ireland1985,0.742,"21,295,486,383",6638,G.I. Generation
+Ireland,1985,female,15-24 years,3,303600,0.99,Ireland1985,0.742,"21,295,486,383",6638,Generation X
+Ireland,1985,male,5-14 years,1,360200,0.28,Ireland1985,0.742,"21,295,486,383",6638,Generation X
+Ireland,1985,female,5-14 years,0,342300,0,Ireland1985,0.742,"21,295,486,383",6638,Generation X
+Ireland,1986,male,55-74 years,62,249700,24.83,Ireland1986,,"28,748,960,471",8937,G.I. Generation
+Ireland,1986,male,25-34 years,47,251300,18.7,Ireland1986,,"28,748,960,471",8937,Boomers
+Ireland,1986,male,35-54 years,56,372400,15.04,Ireland1986,,"28,748,960,471",8937,Silent
+Ireland,1986,male,15-24 years,44,314000,14.01,Ireland1986,,"28,748,960,471",8937,Generation X
+Ireland,1986,male,75+ years,5,56700,8.82,Ireland1986,,"28,748,960,471",8937,G.I. Generation
+Ireland,1986,female,35-54 years,25,358500,6.97,Ireland1986,,"28,748,960,471",8937,Silent
+Ireland,1986,female,55-74 years,18,273000,6.59,Ireland1986,,"28,748,960,471",8937,G.I. Generation
+Ireland,1986,female,25-34 years,13,249900,5.2,Ireland1986,,"28,748,960,471",8937,Boomers
+Ireland,1986,female,15-24 years,10,303500,3.29,Ireland1986,,"28,748,960,471",8937,Generation X
+Ireland,1986,female,75+ years,1,87100,1.15,Ireland1986,,"28,748,960,471",8937,G.I. Generation
+Ireland,1986,male,5-14 years,1,359200,0.28,Ireland1986,,"28,748,960,471",8937,Generation X
+Ireland,1986,female,5-14 years,0,341400,0,Ireland1986,,"28,748,960,471",8937,Generation X
+Ireland,1987,male,55-74 years,58,247700,23.42,Ireland1987,,"33,961,142,322",10515,G.I. Generation
+Ireland,1987,male,25-34 years,39,251100,15.53,Ireland1987,,"33,961,142,322",10515,Boomers
+Ireland,1987,male,35-54 years,54,380400,14.2,Ireland1987,,"33,961,142,322",10515,Silent
+Ireland,1987,male,15-24 years,29,313100,9.26,Ireland1987,,"33,961,142,322",10515,Generation X
+Ireland,1987,male,75+ years,5,58500,8.55,Ireland1987,,"33,961,142,322",10515,G.I. Generation
+Ireland,1987,female,75+ years,6,89800,6.68,Ireland1987,,"33,961,142,322",10515,G.I. Generation
+Ireland,1987,female,55-74 years,17,272000,6.25,Ireland1987,,"33,961,142,322",10515,G.I. Generation
+Ireland,1987,female,35-54 years,21,366500,5.73,Ireland1987,,"33,961,142,322",10515,Silent
+Ireland,1987,female,25-34 years,8,250700,3.19,Ireland1987,,"33,961,142,322",10515,Boomers
+Ireland,1987,female,15-24 years,7,301200,2.32,Ireland1987,,"33,961,142,322",10515,Generation X
+Ireland,1987,female,5-14 years,1,340100,0.29,Ireland1987,,"33,961,142,322",10515,Generation X
+Ireland,1987,male,5-14 years,0,358600,0,Ireland1987,,"33,961,142,322",10515,Generation X
+Ireland,1988,male,75+ years,15,59600,25.17,Ireland1988,,"37,818,134,253",11696,G.I. Generation
+Ireland,1988,male,25-34 years,50,248600,20.11,Ireland1988,,"37,818,134,253",11696,Boomers
+Ireland,1988,male,55-74 years,47,246600,19.06,Ireland1988,,"37,818,134,253",11696,G.I. Generation
+Ireland,1988,male,15-24 years,47,312200,15.05,Ireland1988,,"37,818,134,253",11696,Generation X
+Ireland,1988,male,35-54 years,36,388200,9.27,Ireland1988,,"37,818,134,253",11696,Silent
+Ireland,1988,female,35-54 years,32,374900,8.54,Ireland1988,,"37,818,134,253",11696,Silent
+Ireland,1988,female,55-74 years,18,271500,6.63,Ireland1988,,"37,818,134,253",11696,G.I. Generation
+Ireland,1988,female,25-34 years,13,249000,5.22,Ireland1988,,"37,818,134,253",11696,Boomers
+Ireland,1988,female,75+ years,2,91600,2.18,Ireland1988,,"37,818,134,253",11696,G.I. Generation
+Ireland,1988,female,15-24 years,6,298100,2.01,Ireland1988,,"37,818,134,253",11696,Generation X
+Ireland,1988,female,5-14 years,0,337800,0,Ireland1988,,"37,818,134,253",11696,Generation X
+Ireland,1988,male,5-14 years,0,355400,0,Ireland1988,,"37,818,134,253",11696,Generation X
+Ireland,1989,male,35-54 years,77,397500,19.37,Ireland1989,,"39,285,385,088",12188,Silent
+Ireland,1989,male,75+ years,11,60700,18.12,Ireland1989,,"39,285,385,088",12188,G.I. Generation
+Ireland,1989,male,25-34 years,42,242200,17.34,Ireland1989,,"39,285,385,088",12188,Boomers
+Ireland,1989,male,55-74 years,42,245400,17.11,Ireland1989,,"39,285,385,088",12188,G.I. Generation
+Ireland,1989,male,15-24 years,41,307900,13.32,Ireland1989,,"39,285,385,088",12188,Generation X
+Ireland,1989,female,55-74 years,24,270300,8.88,Ireland1989,,"39,285,385,088",12188,G.I. Generation
+Ireland,1989,female,35-54 years,21,383000,5.48,Ireland1989,,"39,285,385,088",12188,Silent
+Ireland,1989,female,75+ years,5,95000,5.26,Ireland1989,,"39,285,385,088",12188,G.I. Generation
+Ireland,1989,female,25-34 years,8,242300,3.3,Ireland1989,,"39,285,385,088",12188,Boomers
+Ireland,1989,female,15-24 years,7,293600,2.38,Ireland1989,,"39,285,385,088",12188,Generation X
+Ireland,1989,female,5-14 years,0,333700,0,Ireland1989,,"39,285,385,088",12188,Generation X
+Ireland,1989,male,5-14 years,0,351600,0,Ireland1989,,"39,285,385,088",12188,Generation X
+Ireland,1990,male,55-74 years,58,244600,23.71,Ireland1990,0.77,"49,364,681,256",15312,G.I. Generation
+Ireland,1990,male,25-34 years,51,236900,21.53,Ireland1990,0.77,"49,364,681,256",15312,Boomers
+Ireland,1990,male,35-54 years,85,406100,20.93,Ireland1990,0.77,"49,364,681,256",15312,Silent
+Ireland,1990,male,75+ years,9,61000,14.75,Ireland1990,0.77,"49,364,681,256",15312,G.I. Generation
+Ireland,1990,male,15-24 years,44,309400,14.22,Ireland1990,0.77,"49,364,681,256",15312,Generation X
+Ireland,1990,female,25-34 years,20,238400,8.39,Ireland1990,0.77,"49,364,681,256",15312,Boomers
+Ireland,1990,female,55-74 years,20,269100,7.43,Ireland1990,0.77,"49,364,681,256",15312,G.I. Generation
+Ireland,1990,female,35-54 years,29,391200,7.41,Ireland1990,0.77,"49,364,681,256",15312,Silent
+Ireland,1990,female,15-24 years,12,291300,4.12,Ireland1990,0.77,"49,364,681,256",15312,Generation X
+Ireland,1990,female,75+ years,2,97900,2.04,Ireland1990,0.77,"49,364,681,256",15312,G.I. Generation
+Ireland,1990,male,5-14 years,4,347800,1.15,Ireland1990,0.77,"49,364,681,256",15312,Generation X
+Ireland,1990,female,5-14 years,0,330300,0,Ireland1990,0.77,"49,364,681,256",15312,Generation X
+Ireland,1991,male,25-34 years,69,243900,28.29,Ireland1991,,"49,847,128,533",15328,Boomers
+Ireland,1991,male,35-54 years,91,407900,22.31,Ireland1991,,"49,847,128,533",15328,Boomers
+Ireland,1991,male,55-74 years,53,247500,21.41,Ireland1991,,"49,847,128,533",15328,Silent
+Ireland,1991,male,15-24 years,61,307900,19.81,Ireland1991,,"49,847,128,533",15328,Generation X
+Ireland,1991,male,75+ years,8,63600,12.58,Ireland1991,,"49,847,128,533",15328,G.I. Generation
+Ireland,1991,female,55-74 years,19,269800,7.04,Ireland1991,,"49,847,128,533",15328,Silent
+Ireland,1991,female,25-34 years,15,251600,5.96,Ireland1991,,"49,847,128,533",15328,Boomers
+Ireland,1991,female,35-54 years,23,400200,5.75,Ireland1991,,"49,847,128,533",15328,Boomers
+Ireland,1991,female,75+ years,2,99200,2.02,Ireland1991,,"49,847,128,533",15328,G.I. Generation
+Ireland,1991,female,15-24 years,4,293700,1.36,Ireland1991,,"49,847,128,533",15328,Generation X
+Ireland,1991,female,5-14 years,0,324600,0,Ireland1991,,"49,847,128,533",15328,Millenials
+Ireland,1991,male,5-14 years,0,342200,0,Ireland1991,,"49,847,128,533",15328,Millenials
+Ireland,1992,male,25-34 years,80,246100,32.51,Ireland1992,,"55,985,506,499",17051,Boomers
+Ireland,1992,male,55-74 years,60,248700,24.13,Ireland1992,,"55,985,506,499",17051,Silent
+Ireland,1992,male,15-24 years,68,313100,21.72,Ireland1992,,"55,985,506,499",17051,Generation X
+Ireland,1992,male,35-54 years,82,416800,19.67,Ireland1992,,"55,985,506,499",17051,Boomers
+Ireland,1992,male,75+ years,11,64800,16.98,Ireland1992,,"55,985,506,499",17051,G.I. Generation
+Ireland,1992,female,55-74 years,21,270500,7.76,Ireland1992,,"55,985,506,499",17051,Silent
+Ireland,1992,female,25-34 years,11,252800,4.35,Ireland1992,,"55,985,506,499",17051,Boomers
+Ireland,1992,female,75+ years,4,101300,3.95,Ireland1992,,"55,985,506,499",17051,G.I. Generation
+Ireland,1992,female,35-54 years,16,410400,3.9,Ireland1992,,"55,985,506,499",17051,Boomers
+Ireland,1992,female,15-24 years,6,297400,2.02,Ireland1992,,"55,985,506,499",17051,Generation X
+Ireland,1992,male,5-14 years,3,339800,0.88,Ireland1992,,"55,985,506,499",17051,Millenials
+Ireland,1992,female,5-14 years,0,321700,0,Ireland1992,,"55,985,506,499",17051,Millenials
+Ireland,1993,male,25-34 years,57,247200,23.06,Ireland1993,,"52,480,253,169",15872,Boomers
+Ireland,1993,male,55-74 years,56,250200,22.38,Ireland1993,,"52,480,253,169",15872,Silent
+Ireland,1993,male,35-54 years,85,426500,19.93,Ireland1993,,"52,480,253,169",15872,Boomers
+Ireland,1993,male,15-24 years,45,316400,14.22,Ireland1993,,"52,480,253,169",15872,Generation X
+Ireland,1993,male,75+ years,8,65100,12.29,Ireland1993,,"52,480,253,169",15872,G.I. Generation
+Ireland,1993,female,35-54 years,28,421100,6.65,Ireland1993,,"52,480,253,169",15872,Boomers
+Ireland,1993,female,55-74 years,14,271400,5.16,Ireland1993,,"52,480,253,169",15872,Silent
+Ireland,1993,female,25-34 years,13,252600,5.15,Ireland1993,,"52,480,253,169",15872,Boomers
+Ireland,1993,female,15-24 years,9,300100,3,Ireland1993,,"52,480,253,169",15872,Generation X
+Ireland,1993,female,75+ years,3,102900,2.92,Ireland1993,,"52,480,253,169",15872,G.I. Generation
+Ireland,1993,male,5-14 years,8,335100,2.39,Ireland1993,,"52,480,253,169",15872,Millenials
+Ireland,1993,female,5-14 years,0,317900,0,Ireland1993,,"52,480,253,169",15872,Millenials
+Ireland,1994,male,25-34 years,77,249000,30.92,Ireland1994,,"57,166,037,102",17188,Boomers
+Ireland,1994,male,35-54 years,99,436500,22.68,Ireland1994,,"57,166,037,102",17188,Boomers
+Ireland,1994,male,15-24 years,69,318100,21.69,Ireland1994,,"57,166,037,102",17188,Generation X
+Ireland,1994,male,75+ years,13,64700,20.09,Ireland1994,,"57,166,037,102",17188,G.I. Generation
+Ireland,1994,male,55-74 years,44,252800,17.41,Ireland1994,,"57,166,037,102",17188,Silent
+Ireland,1994,female,55-74 years,27,272800,9.9,Ireland1994,,"57,166,037,102",17188,Silent
+Ireland,1994,female,35-54 years,38,431300,8.81,Ireland1994,,"57,166,037,102",17188,Boomers
+Ireland,1994,female,15-24 years,13,303000,4.29,Ireland1994,,"57,166,037,102",17188,Generation X
+Ireland,1994,female,25-34 years,9,256100,3.51,Ireland1994,,"57,166,037,102",17188,Boomers
+Ireland,1994,female,75+ years,3,103200,2.91,Ireland1994,,"57,166,037,102",17188,G.I. Generation
+Ireland,1994,male,5-14 years,2,328300,0.61,Ireland1994,,"57,166,037,102",17188,Millenials
+Ireland,1994,female,5-14 years,0,310200,0,Ireland1994,,"57,166,037,102",17188,Millenials
+Ireland,1995,male,25-34 years,67,253100,26.47,Ireland1995,0.803,"69,222,626,263",20689,Generation X
+Ireland,1995,male,35-54 years,111,444400,24.98,Ireland1995,0.803,"69,222,626,263",20689,Boomers
+Ireland,1995,male,15-24 years,76,319400,23.79,Ireland1995,0.803,"69,222,626,263",20689,Generation X
+Ireland,1995,male,75+ years,14,66000,21.21,Ireland1995,0.803,"69,222,626,263",20689,G.I. Generation
+Ireland,1995,male,55-74 years,48,254200,18.88,Ireland1995,0.803,"69,222,626,263",20689,Silent
+Ireland,1995,female,25-34 years,20,259200,7.72,Ireland1995,0.803,"69,222,626,263",20689,Generation X
+Ireland,1995,female,35-54 years,34,441600,7.7,Ireland1995,0.803,"69,222,626,263",20689,Boomers
+Ireland,1995,female,55-74 years,13,273900,4.75,Ireland1995,0.803,"69,222,626,263",20689,Silent
+Ireland,1995,female,15-24 years,11,306300,3.59,Ireland1995,0.803,"69,222,626,263",20689,Generation X
+Ireland,1995,female,75+ years,3,105500,2.84,Ireland1995,0.803,"69,222,626,263",20689,G.I. Generation
+Ireland,1995,male,5-14 years,4,319700,1.25,Ireland1995,0.803,"69,222,626,263",20689,Millenials
+Ireland,1995,female,5-14 years,2,302600,0.66,Ireland1995,0.803,"69,222,626,263",20689,Millenials
+Ireland,1996,male,25-34 years,89,257100,34.62,Ireland1996,,"75,880,632,560",22478,Generation X
+Ireland,1996,male,15-24 years,82,323100,25.38,Ireland1996,,"75,880,632,560",22478,Generation X
+Ireland,1996,male,35-54 years,111,454800,24.41,Ireland1996,,"75,880,632,560",22478,Boomers
+Ireland,1996,male,75+ years,15,66900,22.42,Ireland1996,,"75,880,632,560",22478,G.I. Generation
+Ireland,1996,male,55-74 years,44,256900,17.13,Ireland1996,,"75,880,632,560",22478,Silent
+Ireland,1996,female,25-34 years,15,262900,5.71,Ireland1996,,"75,880,632,560",22478,Generation X
+Ireland,1996,female,35-54 years,24,453300,5.29,Ireland1996,,"75,880,632,560",22478,Boomers
+Ireland,1996,female,15-24 years,14,309800,4.52,Ireland1996,,"75,880,632,560",22478,Generation X
+Ireland,1996,female,55-74 years,8,274300,2.92,Ireland1996,,"75,880,632,560",22478,Silent
+Ireland,1996,female,75+ years,2,107700,1.86,Ireland1996,,"75,880,632,560",22478,G.I. Generation
+Ireland,1996,male,5-14 years,4,312700,1.28,Ireland1996,,"75,880,632,560",22478,Millenials
+Ireland,1996,female,5-14 years,0,296300,0,Ireland1996,,"75,880,632,560",22478,Millenials
+Ireland,1997,male,15-24 years,105,327450,32.07,Ireland1997,,"82,826,146,132",24259,Generation X
+Ireland,1997,male,25-34 years,80,261887,30.55,Ireland1997,,"82,826,146,132",24259,Generation X
+Ireland,1997,male,35-54 years,126,467626,26.94,Ireland1997,,"82,826,146,132",24259,Boomers
+Ireland,1997,male,55-74 years,49,260486,18.81,Ireland1997,,"82,826,146,132",24259,Silent
+Ireland,1997,male,75+ years,12,67496,17.78,Ireland1997,,"82,826,146,132",24259,G.I. Generation
+Ireland,1997,female,55-74 years,23,276097,8.33,Ireland1997,,"82,826,146,132",24259,Silent
+Ireland,1997,female,35-54 years,33,466997,7.07,Ireland1997,,"82,826,146,132",24259,Boomers
+Ireland,1997,female,15-24 years,19,313447,6.06,Ireland1997,,"82,826,146,132",24259,Generation X
+Ireland,1997,female,25-34 years,12,267638,4.48,Ireland1997,,"82,826,146,132",24259,Generation X
+Ireland,1997,female,75+ years,3,109207,2.75,Ireland1997,,"82,826,146,132",24259,G.I. Generation
+Ireland,1997,male,5-14 years,4,305770,1.31,Ireland1997,,"82,826,146,132",24259,Millenials
+Ireland,1997,female,5-14 years,0,290184,0,Ireland1997,,"82,826,146,132",24259,Millenials
+Ireland,1998,male,25-34 years,106,268458,39.48,Ireland1998,,"90,082,034,316",26115,Generation X
+Ireland,1998,male,15-24 years,112,328079,34.14,Ireland1998,,"90,082,034,316",26115,Generation X
+Ireland,1998,male,35-54 years,140,479431,29.2,Ireland1998,,"90,082,034,316",26115,Boomers
+Ireland,1998,male,55-74 years,55,264994,20.76,Ireland1998,,"90,082,034,316",26115,Silent
+Ireland,1998,male,75+ years,11,68586,16.04,Ireland1998,,"90,082,034,316",26115,G.I. Generation
+Ireland,1998,female,35-54 years,34,479738,7.09,Ireland1998,,"90,082,034,316",26115,Boomers
+Ireland,1998,female,55-74 years,12,279666,4.29,Ireland1998,,"90,082,034,316",26115,Silent
+Ireland,1998,female,15-24 years,13,314723,4.13,Ireland1998,,"90,082,034,316",26115,Generation X
+Ireland,1998,female,25-34 years,10,271872,3.68,Ireland1998,,"90,082,034,316",26115,Generation X
+Ireland,1998,female,75+ years,3,111741,2.68,Ireland1998,,"90,082,034,316",26115,G.I. Generation
+Ireland,1998,female,5-14 years,1,283607,0.35,Ireland1998,,"90,082,034,316",26115,Millenials
+Ireland,1998,male,5-14 years,1,298520,0.33,Ireland1998,,"90,082,034,316",26115,Millenials
+Ireland,1999,male,25-34 years,82,274372,29.89,Ireland1999,,"98,691,849,563",28344,Generation X
+Ireland,1999,male,15-24 years,86,327454,26.26,Ireland1999,,"98,691,849,563",28344,Generation X
+Ireland,1999,male,55-74 years,58,270407,21.45,Ireland1999,,"98,691,849,563",28344,Silent
+Ireland,1999,male,35-54 years,104,490716,21.19,Ireland1999,,"98,691,849,563",28344,Boomers
+Ireland,1999,male,75+ years,10,68952,14.5,Ireland1999,,"98,691,849,563",28344,G.I. Generation
+Ireland,1999,female,55-74 years,18,283198,6.36,Ireland1999,,"98,691,849,563",28344,Silent
+Ireland,1999,female,25-34 years,15,277242,5.41,Ireland1999,,"98,691,849,563",28344,Generation X
+Ireland,1999,female,15-24 years,17,315004,5.4,Ireland1999,,"98,691,849,563",28344,Generation X
+Ireland,1999,female,35-54 years,26,490684,5.3,Ireland1999,,"98,691,849,563",28344,Boomers
+Ireland,1999,female,75+ years,5,113032,4.42,Ireland1999,,"98,691,849,563",28344,G.I. Generation
+Ireland,1999,male,5-14 years,2,292740,0.68,Ireland1999,,"98,691,849,563",28344,Millenials
+Ireland,1999,female,5-14 years,1,278070,0.36,Ireland1999,,"98,691,849,563",28344,Millenials
+Ireland,2000,male,25-34 years,99,283528,34.92,Ireland2000,0.861,"99,853,528,653",28340,Generation X
+Ireland,2000,male,35-54 years,138,501834,27.5,Ireland2000,0.861,"99,853,528,653",28340,Boomers
+Ireland,2000,male,15-24 years,85,326264,26.05,Ireland2000,0.861,"99,853,528,653",28340,Generation X
+Ireland,2000,male,55-74 years,51,276475,18.45,Ireland2000,0.861,"99,853,528,653",28340,Silent
+Ireland,2000,male,75+ years,7,69695,10.04,Ireland2000,0.861,"99,853,528,653",28340,G.I. Generation
+Ireland,2000,female,35-54 years,37,502942,7.36,Ireland2000,0.861,"99,853,528,653",28340,Boomers
+Ireland,2000,female,15-24 years,21,314968,6.67,Ireland2000,0.861,"99,853,528,653",28340,Generation X
+Ireland,2000,female,75+ years,5,114383,4.37,Ireland2000,0.861,"99,853,528,653",28340,G.I. Generation
+Ireland,2000,female,55-74 years,10,288075,3.47,Ireland2000,0.861,"99,853,528,653",28340,Silent
+Ireland,2000,female,25-34 years,9,283371,3.18,Ireland2000,0.861,"99,853,528,653",28340,Generation X
+Ireland,2000,male,5-14 years,1,287937,0.35,Ireland2000,0.861,"99,853,528,653",28340,Millenials
+Ireland,2000,female,5-14 years,0,273904,0,Ireland2000,0.861,"99,853,528,653",28340,Millenials
+Ireland,2001,male,25-34 years,104,295410,35.21,Ireland2001,,"109,133,512,304",30536,Generation X
+Ireland,2001,male,15-24 years,89,324752,27.41,Ireland2001,,"109,133,512,304",30536,Millenials
+Ireland,2001,male,35-54 years,139,512042,27.15,Ireland2001,,"109,133,512,304",30536,Boomers
+Ireland,2001,male,55-74 years,66,285022,23.16,Ireland2001,,"109,133,512,304",30536,Silent
+Ireland,2001,male,75+ years,9,70956,12.68,Ireland2001,,"109,133,512,304",30536,Silent
+Ireland,2001,female,35-54 years,34,512762,6.63,Ireland2001,,"109,133,512,304",30536,Boomers
+Ireland,2001,female,55-74 years,18,295191,6.1,Ireland2001,,"109,133,512,304",30536,Silent
+Ireland,2001,female,15-24 years,14,313247,4.47,Ireland2001,,"109,133,512,304",30536,Millenials
+Ireland,2001,female,25-34 years,11,294059,3.74,Ireland2001,,"109,133,512,304",30536,Generation X
+Ireland,2001,female,75+ years,2,116212,1.72,Ireland2001,,"109,133,512,304",30536,Silent
+Ireland,2001,male,5-14 years,2,284509,0.7,Ireland2001,,"109,133,512,304",30536,Millenials
+Ireland,2001,female,5-14 years,0,269812,0,Ireland2001,,"109,133,512,304",30536,Millenials
+Ireland,2002,male,25-34 years,100,308477,32.42,Ireland2002,,"127,945,379,258",35154,Generation X
+Ireland,2002,male,15-24 years,89,325705,27.33,Ireland2002,,"127,945,379,258",35154,Millenials
+Ireland,2002,male,55-74 years,62,294395,21.06,Ireland2002,,"127,945,379,258",35154,Silent
+Ireland,2002,male,35-54 years,109,521397,20.91,Ireland2002,,"127,945,379,258",35154,Boomers
+Ireland,2002,male,75+ years,7,72146,9.7,Ireland2002,,"127,945,379,258",35154,Silent
+Ireland,2002,female,25-34 years,19,308892,6.15,Ireland2002,,"127,945,379,258",35154,Generation X
+Ireland,2002,female,35-54 years,29,521940,5.56,Ireland2002,,"127,945,379,258",35154,Boomers
+Ireland,2002,female,55-74 years,14,302754,4.62,Ireland2002,,"127,945,379,258",35154,Silent
+Ireland,2002,female,15-24 years,14,315817,4.43,Ireland2002,,"127,945,379,258",35154,Millenials
+Ireland,2002,female,75+ years,3,118252,2.54,Ireland2002,,"127,945,379,258",35154,Silent
+Ireland,2002,female,5-14 years,2,267794,0.75,Ireland2002,,"127,945,379,258",35154,Millenials
+Ireland,2002,male,5-14 years,1,282004,0.35,Ireland2002,,"127,945,379,258",35154,Millenials
+Ireland,2003,male,15-24 years,93,325589,28.56,Ireland2003,,"164,285,112,867",44473,Millenials
+Ireland,2003,male,35-54 years,135,529155,25.51,Ireland2003,,"164,285,112,867",44473,Boomers
+Ireland,2003,male,25-34 years,61,316763,19.26,Ireland2003,,"164,285,112,867",44473,Generation X
+Ireland,2003,male,55-74 years,57,304682,18.71,Ireland2003,,"164,285,112,867",44473,Silent
+Ireland,2003,male,75+ years,10,73562,13.59,Ireland2003,,"164,285,112,867",44473,Silent
+Ireland,2003,female,35-54 years,37,530989,6.97,Ireland2003,,"164,285,112,867",44473,Boomers
+Ireland,2003,female,55-74 years,21,311239,6.75,Ireland2003,,"164,285,112,867",44473,Silent
+Ireland,2003,female,25-34 years,16,315513,5.07,Ireland2003,,"164,285,112,867",44473,Generation X
+Ireland,2003,female,15-24 years,15,317275,4.73,Ireland2003,,"164,285,112,867",44473,Millenials
+Ireland,2003,female,75+ years,5,120328,4.16,Ireland2003,,"164,285,112,867",44473,Silent
+Ireland,2003,female,5-14 years,2,267103,0.75,Ireland2003,,"164,285,112,867",44473,Millenials
+Ireland,2003,male,5-14 years,2,281881,0.71,Ireland2003,,"164,285,112,867",44473,Millenials
+Ireland,2004,male,35-54 years,152,539660,28.17,Ireland2004,,"193,870,350,137",51662,Boomers
+Ireland,2004,male,15-24 years,86,324349,26.51,Ireland2004,,"193,870,350,137",51662,Millenials
+Ireland,2004,male,25-34 years,84,325356,25.82,Ireland2004,,"193,870,350,137",51662,Generation X
+Ireland,2004,male,55-74 years,60,313994,19.11,Ireland2004,,"193,870,350,137",51662,Silent
+Ireland,2004,male,75+ years,7,75345,9.29,Ireland2004,,"193,870,350,137",51662,Silent
+Ireland,2004,female,35-54 years,31,539721,5.74,Ireland2004,,"193,870,350,137",51662,Boomers
+Ireland,2004,female,55-74 years,18,319814,5.63,Ireland2004,,"193,870,350,137",51662,Silent
+Ireland,2004,female,25-34 years,15,324860,4.62,Ireland2004,,"193,870,350,137",51662,Generation X
+Ireland,2004,female,15-24 years,8,315174,2.54,Ireland2004,,"193,870,350,137",51662,Millenials
+Ireland,2004,female,75+ years,2,122315,1.64,Ireland2004,,"193,870,350,137",51662,Silent
+Ireland,2004,male,5-14 years,1,283674,0.35,Ireland2004,,"193,870,350,137",51662,Millenials
+Ireland,2004,female,5-14 years,0,268417,0,Ireland2004,,"193,870,350,137",51662,Millenials
+Ireland,2005,male,25-34 years,86,344139,24.99,Ireland2005,0.895,"211,650,764,830",55213,Generation X
+Ireland,2005,male,15-24 years,80,322805,24.78,Ireland2005,0.895,"211,650,764,830",55213,Millenials
+Ireland,2005,male,35-54 years,134,552960,24.23,Ireland2005,0.895,"211,650,764,830",55213,Boomers
+Ireland,2005,male,55-74 years,59,323255,18.25,Ireland2005,0.895,"211,650,764,830",55213,Silent
+Ireland,2005,female,25-34 years,21,337499,6.22,Ireland2005,0.895,"211,650,764,830",55213,Generation X
+Ireland,2005,female,15-24 years,18,314542,5.72,Ireland2005,0.895,"211,650,764,830",55213,Millenials
+Ireland,2005,female,55-74 years,17,329510,5.16,Ireland2005,0.895,"211,650,764,830",55213,Silent
+Ireland,2005,female,35-54 years,27,550357,4.91,Ireland2005,0.895,"211,650,764,830",55213,Boomers
+Ireland,2005,female,75+ years,4,124661,3.21,Ireland2005,0.895,"211,650,764,830",55213,Silent
+Ireland,2005,male,75+ years,2,77704,2.57,Ireland2005,0.895,"211,650,764,830",55213,Silent
+Ireland,2005,male,5-14 years,2,285659,0.7,Ireland2005,0.895,"211,650,764,830",55213,Millenials
+Ireland,2005,female,5-14 years,1,270266,0.37,Ireland2005,0.895,"211,650,764,830",55213,Millenials
+Ireland,2006,male,15-24 years,87,321007,27.1,Ireland2006,,"232,085,535,065",58941,Millenials
+Ireland,2006,male,25-34 years,86,366739,23.45,Ireland2006,,"232,085,535,065",58941,Generation X
+Ireland,2006,male,35-54 years,125,577782,21.63,Ireland2006,,"232,085,535,065",58941,Boomers
+Ireland,2006,male,55-74 years,61,332939,18.32,Ireland2006,,"232,085,535,065",58941,Silent
+Ireland,2006,male,75+ years,11,79660,13.81,Ireland2006,,"232,085,535,065",58941,Silent
+Ireland,2006,female,55-74 years,18,336664,5.35,Ireland2006,,"232,085,535,065",58941,Silent
+Ireland,2006,female,35-54 years,30,567465,5.29,Ireland2006,,"232,085,535,065",58941,Boomers
+Ireland,2006,female,15-24 years,16,311725,5.13,Ireland2006,,"232,085,535,065",58941,Millenials
+Ireland,2006,female,25-34 years,12,355700,3.37,Ireland2006,,"232,085,535,065",58941,Generation X
+Ireland,2006,female,75+ years,2,125700,1.59,Ireland2006,,"232,085,535,065",58941,Silent
+Ireland,2006,female,5-14 years,2,273709,0.73,Ireland2006,,"232,085,535,065",58941,Millenials
+Ireland,2006,male,5-14 years,2,288488,0.69,Ireland2006,,"232,085,535,065",58941,Millenials
+Ireland,2007,male,15-24 years,76,320350,23.72,Ireland2007,,"269,917,519,847",67032,Millenials
+Ireland,2007,male,25-34 years,91,387302,23.5,Ireland2007,,"269,917,519,847",67032,Generation X
+Ireland,2007,male,35-54 years,119,590396,20.16,Ireland2007,,"269,917,519,847",67032,Boomers
+Ireland,2007,male,55-74 years,61,338808,18,Ireland2007,,"269,917,519,847",67032,Silent
+Ireland,2007,male,75+ years,8,81128,9.86,Ireland2007,,"269,917,519,847",67032,Silent
+Ireland,2007,female,35-54 years,45,579555,7.76,Ireland2007,,"269,917,519,847",67032,Boomers
+Ireland,2007,female,25-34 years,19,375744,5.06,Ireland2007,,"269,917,519,847",67032,Generation X
+Ireland,2007,female,15-24 years,15,313405,4.79,Ireland2007,,"269,917,519,847",67032,Millenials
+Ireland,2007,female,55-74 years,13,341816,3.8,Ireland2007,,"269,917,519,847",67032,Silent
+Ireland,2007,male,5-14 years,7,292637,2.39,Ireland2007,,"269,917,519,847",67032,Generation Z
+Ireland,2007,female,75+ years,3,126722,2.37,Ireland2007,,"269,917,519,847",67032,Silent
+Ireland,2007,female,5-14 years,1,278844,0.36,Ireland2007,,"269,917,519,847",67032,Generation Z
+Ireland,2008,male,25-34 years,100,394740,25.33,Ireland2008,,"275,020,023,436",67173,Generation X
+Ireland,2008,male,35-54 years,142,602168,23.58,Ireland2008,,"275,020,023,436",67173,Boomers
+Ireland,2008,male,15-24 years,69,310260,22.24,Ireland2008,,"275,020,023,436",67173,Millenials
+Ireland,2008,male,55-74 years,66,348515,18.94,Ireland2008,,"275,020,023,436",67173,Silent
+Ireland,2008,female,15-24 years,25,307663,8.13,Ireland2008,,"275,020,023,436",67173,Millenials
+Ireland,2008,female,35-54 years,46,593336,7.75,Ireland2008,,"275,020,023,436",67173,Boomers
+Ireland,2008,female,55-74 years,27,352281,7.66,Ireland2008,,"275,020,023,436",67173,Silent
+Ireland,2008,male,75+ years,6,83406,7.19,Ireland2008,,"275,020,023,436",67173,Silent
+Ireland,2008,female,25-34 years,18,388880,4.63,Ireland2008,,"275,020,023,436",67173,Generation X
+Ireland,2008,female,75+ years,4,128630,3.11,Ireland2008,,"275,020,023,436",67173,Silent
+Ireland,2008,male,5-14 years,3,298953,1,Ireland2008,,"275,020,023,436",67173,Generation Z
+Ireland,2008,female,5-14 years,0,285360,0,Ireland2008,,"275,020,023,436",67173,Generation Z
+Ireland,2009,male,25-34 years,112,390586,28.67,Ireland2009,,"236,311,336,482",57390,Generation X
+Ireland,2009,male,35-54 years,158,611460,25.84,Ireland2009,,"236,311,336,482",57390,Boomers
+Ireland,2009,male,15-24 years,70,290474,24.1,Ireland2009,,"236,311,336,482",57390,Millenials
+Ireland,2009,male,55-74 years,74,358381,20.65,Ireland2009,,"236,311,336,482",57390,Silent
+Ireland,2009,female,25-34 years,27,394145,6.85,Ireland2009,,"236,311,336,482",57390,Generation X
+Ireland,2009,female,15-24 years,20,292951,6.83,Ireland2009,,"236,311,336,482",57390,Millenials
+Ireland,2009,female,55-74 years,23,362941,6.34,Ireland2009,,"236,311,336,482",57390,Silent
+Ireland,2009,male,75+ years,5,86239,5.8,Ireland2009,,"236,311,336,482",57390,Silent
+Ireland,2009,female,35-54 years,33,604133,5.46,Ireland2009,,"236,311,336,482",57390,Boomers
+Ireland,2009,male,5-14 years,3,305241,0.98,Ireland2009,,"236,311,336,482",57390,Generation Z
+Ireland,2009,female,75+ years,1,130243,0.77,Ireland2009,,"236,311,336,482",57390,Silent
+Ireland,2009,female,5-14 years,1,290873,0.34,Ireland2009,,"236,311,336,482",57390,Generation Z
+Ireland,2010,male,35-54 years,166,644763,25.75,Ireland2010,0.908,"221,951,354,762",52042,Generation X
+Ireland,2010,male,15-24 years,67,301996,22.19,Ireland2010,0.908,"221,951,354,762",52042,Millenials
+Ireland,2010,male,25-34 years,75,391033,19.18,Ireland2010,0.908,"221,951,354,762",52042,Generation X
+Ireland,2010,male,55-74 years,66,388038,17.01,Ireland2010,0.908,"221,951,354,762",52042,Silent
+Ireland,2010,male,75+ years,9,87646,10.27,Ireland2010,0.908,"221,951,354,762",52042,Silent
+Ireland,2010,female,55-74 years,25,394633,6.33,Ireland2010,0.908,"221,951,354,762",52042,Silent
+Ireland,2010,female,35-54 years,38,638166,5.95,Ireland2010,0.908,"221,951,354,762",52042,Generation X
+Ireland,2010,female,25-34 years,19,397846,4.78,Ireland2010,0.908,"221,951,354,762",52042,Generation X
+Ireland,2010,female,15-24 years,11,296543,3.71,Ireland2010,0.908,"221,951,354,762",52042,Millenials
+Ireland,2010,female,75+ years,4,128216,3.12,Ireland2010,0.908,"221,951,354,762",52042,Silent
+Ireland,2010,female,5-14 years,3,290321,1.03,Ireland2010,0.908,"221,951,354,762",52042,Generation Z
+Ireland,2010,male,5-14 years,3,305656,0.98,Ireland2010,0.908,"221,951,354,762",52042,Generation Z
+Ireland,2011,male,35-54 years,191,635771,30.04,Ireland2011,0.909,"239,018,536,582",56655,Generation X
+Ireland,2011,male,25-34 years,100,369966,27.03,Ireland2011,0.909,"239,018,536,582",56655,Millenials
+Ireland,2011,male,15-24 years,78,292307,26.68,Ireland2011,0.909,"239,018,536,582",56655,Millenials
+Ireland,2011,male,55-74 years,78,379505,20.55,Ireland2011,0.909,"239,018,536,582",56655,Boomers
+Ireland,2011,male,75+ years,11,93030,11.82,Ireland2011,0.909,"239,018,536,582",56655,Silent
+Ireland,2011,female,25-34 years,27,386278,6.99,Ireland2011,0.909,"239,018,536,582",56655,Millenials
+Ireland,2011,female,35-54 years,38,634499,5.99,Ireland2011,0.909,"239,018,536,582",56655,Generation X
+Ireland,2011,female,15-24 years,16,287304,5.57,Ireland2011,0.909,"239,018,536,582",56655,Millenials
+Ireland,2011,female,55-74 years,15,383177,3.91,Ireland2011,0.909,"239,018,536,582",56655,Boomers
+Ireland,2011,female,5-14 years,0,302715,0,Ireland2011,0.909,"239,018,536,582",56655,Generation Z
+Ireland,2011,female,75+ years,0,136335,0,Ireland2011,0.909,"239,018,536,582",56655,Silent
+Ireland,2011,male,5-14 years,0,317962,0,Ireland2011,0.909,"239,018,536,582",56655,Generation Z
+Ireland,2012,male,35-54 years,192,641319,29.94,Ireland2012,0.91,"225,571,853,194",53443,Generation X
+Ireland,2012,male,25-34 years,89,354740,25.09,Ireland2012,0.91,"225,571,853,194",53443,Millenials
+Ireland,2012,male,55-74 years,89,388705,22.9,Ireland2012,0.91,"225,571,853,194",53443,Boomers
+Ireland,2012,male,15-24 years,59,279882,21.08,Ireland2012,0.91,"225,571,853,194",53443,Millenials
+Ireland,2012,male,75+ years,14,96459,14.51,Ireland2012,0.91,"225,571,853,194",53443,Silent
+Ireland,2012,female,35-54 years,42,645023,6.51,Ireland2012,0.91,"225,571,853,194",53443,Generation X
+Ireland,2012,female,15-24 years,16,273610,5.85,Ireland2012,0.91,"225,571,853,194",53443,Millenials
+Ireland,2012,female,25-34 years,20,378732,5.28,Ireland2012,0.91,"225,571,853,194",53443,Millenials
+Ireland,2012,female,55-74 years,15,393497,3.81,Ireland2012,0.91,"225,571,853,194",53443,Boomers
+Ireland,2012,female,75+ years,2,138663,1.44,Ireland2012,0.91,"225,571,853,194",53443,Silent
+Ireland,2012,male,5-14 years,3,322478,0.93,Ireland2012,0.91,"225,571,853,194",53443,Generation Z
+Ireland,2012,female,5-14 years,1,307698,0.32,Ireland2012,0.91,"225,571,853,194",53443,Generation Z
+Ireland,2013,male,35-54 years,169,648165,26.07,Ireland2013,0.912,"239,389,340,720",56628,Generation X
+Ireland,2013,male,55-74 years,102,397875,25.64,Ireland2013,0.912,"239,389,340,720",56628,Boomers
+Ireland,2013,male,25-34 years,68,341171,19.93,Ireland2013,0.912,"239,389,340,720",56628,Millenials
+Ireland,2013,male,15-24 years,44,273178,16.11,Ireland2013,0.912,"239,389,340,720",56628,Millenials
+Ireland,2013,female,25-34 years,24,366261,6.55,Ireland2013,0.912,"239,389,340,720",56628,Millenials
+Ireland,2013,female,35-54 years,42,653648,6.43,Ireland2013,0.912,"239,389,340,720",56628,Generation X
+Ireland,2013,male,75+ years,6,99538,6.03,Ireland2013,0.912,"239,389,340,720",56628,Silent
+Ireland,2013,female,55-74 years,18,404503,4.45,Ireland2013,0.912,"239,389,340,720",56628,Boomers
+Ireland,2013,female,15-24 years,9,260127,3.46,Ireland2013,0.912,"239,389,340,720",56628,Millenials
+Ireland,2013,female,75+ years,3,140976,2.13,Ireland2013,0.912,"239,389,340,720",56628,Silent
+Ireland,2013,male,5-14 years,2,327603,0.61,Ireland2013,0.912,"239,389,340,720",56628,Generation Z
+Ireland,2013,female,5-14 years,0,314333,0,Ireland2013,0.912,"239,389,340,720",56628,Generation Z
+Ireland,2014,male,35-54 years,165,675986,24.41,Ireland2014,0.916,"258,099,014,042",59634,Generation X
+Ireland,2014,male,25-34 years,80,337977,23.67,Ireland2014,0.916,"258,099,014,042",59634,Millenials
+Ireland,2014,male,15-24 years,63,267635,23.54,Ireland2014,0.916,"258,099,014,042",59634,Millenials
+Ireland,2014,male,55-74 years,81,421555,19.21,Ireland2014,0.916,"258,099,014,042",59634,Boomers
+Ireland,2014,male,75+ years,8,103238,7.75,Ireland2014,0.916,"258,099,014,042",59634,Silent
+Ireland,2014,female,35-54 years,39,678830,5.75,Ireland2014,0.916,"258,099,014,042",59634,Generation X
+Ireland,2014,female,25-34 years,20,353379,5.66,Ireland2014,0.916,"258,099,014,042",59634,Millenials
+Ireland,2014,female,15-24 years,11,261032,4.21,Ireland2014,0.916,"258,099,014,042",59634,Millenials
+Ireland,2014,female,55-74 years,15,432815,3.47,Ireland2014,0.916,"258,099,014,042",59634,Boomers
+Ireland,2014,female,75+ years,2,141441,1.41,Ireland2014,0.916,"258,099,014,042",59634,Silent
+Ireland,2014,male,5-14 years,2,335330,0.6,Ireland2014,0.916,"258,099,014,042",59634,Generation Z
+Ireland,2014,female,5-14 years,0,318825,0,Ireland2014,0.916,"258,099,014,042",59634,Generation Z
